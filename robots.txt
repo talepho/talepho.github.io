@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://talepho.github.io/sitemap.html
+Sitemap: https://talepho.github.io/app/sitemap.html
+Sitemap: https://talepho.github.io/assets/sitemap.html
+Sitemap: https://talepho.github.io/includes/sitemap.html
+Sitemap: https://talepho.github.io/src/sitemap.html
